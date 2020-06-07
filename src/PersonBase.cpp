@@ -2,8 +2,9 @@
 Imie i nazwisko:         Jakub Bryl
 Numer indeksu:           293085
 Prowadzacy laboratorium: Wiktor Kusmirek
-Numer projektu:          2
+Numer projektu:          2yresy
  foashfpasehfpoasnfisaenf
+ paogijropgnoasdr
 */
 
 
